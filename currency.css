@@ -36,11 +36,18 @@
     font-size: 19px;
     background-color: rgb(155, 201, 194);
     border: 2px solid blue;
-   
 }
 .div2{
 
     font-size: 25px;
     margin-top: 50px;
     margin-left: 15px;
+}
+.output{
+
+    font-size: 30px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    
 }
